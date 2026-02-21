@@ -1,5 +1,13 @@
 # Udemy bootstrap-5 from scratch
 
+
+## Section 3 - Bootstrap Fundamentals
+### Form Validation & Display
+```html
+<form novalidate>
+
+</form>
+```
 ## Miscellaneous
 ### Gutters
 Q. What are gutters in Bootstrap?
